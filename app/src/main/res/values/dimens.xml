@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textBigTitleSize">18sp</dimen>
+    <dimen name="textTitleSize">14sp</dimen>
+    <dimen name="textSize">13sp</dimen>
+    <dimen name="textButtonSize">11sp</dimen>
+    <dimen name="textDetail">10sp</dimen>
+</resources>
